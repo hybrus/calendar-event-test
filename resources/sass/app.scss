@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//sncakbar notification
+@import 'snackbar';
+
+//FullCalendar
+@import '~@fullcalendar/core/main.css';
+@import '~@fullcalendar/list/main.css';
+
+td.fc-list-item-time.fc-widget-content{
+    display: none;
+}
