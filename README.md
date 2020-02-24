@@ -1,4 +1,4 @@
-Calendar Event
+Calendar Event Test
 -Wrollen Autria
 
 *Will show no data on calendar area if no event on database.
